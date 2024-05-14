@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "CONNECTION_STRING": "mongodb://tasks-aswa-starter:WwRcXaM0heirarf3aHmNIw89JRWEV6IrgjVdjbgsdZAW4gLjdGpd6CI9QNEoB4CZSf1r6jKttjRbACDbJxyuew%3D%3D@tasks-aswa-starter.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@tasks-aswa-starter@"
+  }
+}
